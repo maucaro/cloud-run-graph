@@ -1,0 +1,1 @@
+curl -X POST -H "Content-Type: application/json" -d '{"start": 1, "end": 5}'  http://localhost:8080/connected
